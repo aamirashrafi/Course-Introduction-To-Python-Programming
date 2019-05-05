@@ -1,0 +1,1 @@
+print("There one was a movie star icon \nwho prefered to sleep with the light on.\nThey learned how to code\na device that sure glowed\nand lit up the night  using Python!")
